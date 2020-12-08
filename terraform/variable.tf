@@ -13,7 +13,7 @@ variable "location" {
 
 variable "vm_count" {
     description = "Enter the number of VMs"
-    default = 1
+    default = 2
 }
 
 variable "vm_pass" {
